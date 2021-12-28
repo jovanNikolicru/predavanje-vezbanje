@@ -1,6 +1,6 @@
 package vezbanje;
 
-public class zadatak1 {
+public class HelperMethods {
 
 	public static void main(String[] args) {
 	int [] niz = {1,2,3,4,5};
